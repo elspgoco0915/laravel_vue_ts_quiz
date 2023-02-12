@@ -4,7 +4,8 @@
     "bootstrap": "^5.2.3",
     "chart.js": "^3.9.1",
     "sass": "^1.58.0",
-    "vue-chart-3": "^3.1.8"
+    "vue-chart-3": "^3.1.8",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "vue-social-sharing": "^2.4.6"
